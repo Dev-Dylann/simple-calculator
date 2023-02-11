@@ -16,8 +16,8 @@ Users can:
 
 ## Links
 
-- [View Code](https://)
-- [View Live Site](https://)
+- [View Code](https://github.com/Dev-Dylann/simple-calculator)
+- [View Live Site](https://dev-dylann.github.io/simple-calculator/)
 
 ## Built with
 
